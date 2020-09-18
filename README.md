@@ -2,6 +2,9 @@
 <p align="center">Clone Twitter construído com flexbox para fins de estudo. 
 </p>
 
+### :globe_with_meridians: Demonstração
+- [Link para o site](https://julio-nery-clone-twitter.netlify.app/)
+
 ### :rocket: Tecnologias
 - HTML
 - CSS
